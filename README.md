@@ -1,2 +1,3 @@
 # Hollow-Rhombus
-It displays hollow rhombus length of given input.
+Enter any number of your choice.
+If you entered 5 then it will display the Hollow Rhombus of length 5.
